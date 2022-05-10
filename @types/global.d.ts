@@ -1,7 +1,7 @@
 
 declare global {
     interface Window {
-        dataLayer?: Array[];
+        dataLayer?: DataLayerObject[];
     }
 }
 
