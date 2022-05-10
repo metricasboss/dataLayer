@@ -5,8 +5,14 @@ TypeScript package for Google Tag Manager's dataLayer implementation
 
 Using npm:
 ```shell
-    $ npm i -g dataLayer
+$ npm i @metricasboss/typescript-datalayer
 ```
+
+## Usage
+```ts
+
+```
+
 
 ## Todo
 [ ] Implement Unit Tests

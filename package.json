@@ -1,11 +1,11 @@
 {
-  "name": "datalayer",
+  "name": "@metricasboss/typescript-datalayer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/index.ts"
+    "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/sample.ts"
   },
   "repository": {
     "type": "git",
