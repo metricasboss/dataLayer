@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
-  "types" : "@types/global.d.ts",
+  "types" : "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/sample.ts"

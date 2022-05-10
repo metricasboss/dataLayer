@@ -1,4 +1,4 @@
-import { DataLayerObject } from "../@types/global";
+import { DataLayerObject } from "./DataLayerObject";
 
 const sendToDataLayer = (obj: DataLayerObject) => {
     window.dataLayer = window.dataLayer || [];
@@ -13,6 +13,8 @@ const CustomEvent = (eventName: string, obj: object) => {
 
     sendToDataLayer(data)
 }
+
+export { DataLayerObject }
 
 export default  {
     customEvent: CustomEvent
