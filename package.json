@@ -1,8 +1,9 @@
 {
   "name": "@metricasboss/typescript-datalayer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types" : "dist/global.d.ts",
   "scripts": {
     "build": "tsc",
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/sample.ts"
