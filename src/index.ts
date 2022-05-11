@@ -8,7 +8,7 @@ const sendToDataLayer = (obj: DataLayerObject) => {
 const CustomEvent = (eventName: string, obj: object) => {
     const data = {
         'event': eventName,
-        'data': obj
+        ...obj
     }
 
     sendToDataLayer(data)

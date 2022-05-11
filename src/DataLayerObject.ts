@@ -1,6 +1,4 @@
 export interface DataLayerObject {
     event: string;
-    data?: CustomObjectProperties
+    [key: string]: any
 }
-
-export type CustomObjectProperties = {};
