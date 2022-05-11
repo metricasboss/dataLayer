@@ -267,10 +267,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@metricasboss/typescript-datalayer@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@metricasboss/typescript-datalayer/-/typescript-datalayer-1.0.4.tgz#3887a7e91aec87120b4d9e9aaf93527bd759c3d5"
-  integrity sha512-v8l6nxFdIgv+MwnPO1lvgaGxSe87FqLzfW9iu//On02ByEI447+ujra/bCZdamSkjxUvFjoX3m2xg28/07PmFw==
+"@metricasboss/typescript-datalayer@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@metricasboss/typescript-datalayer/-/typescript-datalayer-1.0.6.tgz#843dbd8ac791fcdc75b1c0d566480a775475c2fc"
+  integrity sha512-VWEp0tdiFCWDU3UCnBluhfakrlwOL/mWi8Sx7WXXf2Sg96W9+znyB/df7SU0XkOInX7+H8TAZl7Z9GYHd7PrHg==
 
 "@rollup/pluginutils@^4.2.1":
   version "4.2.1"
