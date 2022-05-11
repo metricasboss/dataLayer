@@ -7,6 +7,10 @@ Using npm:
 ```shell
 $ npm i @metricasboss/typescript-datalayer
 ```
+or. 
+```shell
+$ yarn add @metricasboss/typescript-datalayer
+```
 
 ## Usage
 You can see more in the example folder
@@ -34,5 +38,5 @@ function App() {
 
 
 ## Todo
-[ ] Add suport to GA4 events
+[ ] Add suport to GA4 events. 
 [ ] Implement Unit Tests
